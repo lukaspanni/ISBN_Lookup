@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISBN_Lookup", "ISBN_Lookup\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISBN_LookupWeb", "ISBN_LookupWeb\ISBN_LookupWeb.csproj", "{275291E2-E87D-4CF5-907D-EBCC71801F34}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISBN_Lookup_VSTO", "ISBN_Lookup_VSTO\ISBN_Lookup_VSTO.csproj", "{12E1C5BA-E348-481D-B704-C6F008DF22AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{275291E2-E87D-4CF5-907D-EBCC71801F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{275291E2-E87D-4CF5-907D-EBCC71801F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{275291E2-E87D-4CF5-907D-EBCC71801F34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12E1C5BA-E348-481D-B704-C6F008DF22AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E1C5BA-E348-481D-B704-C6F008DF22AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E1C5BA-E348-481D-B704-C6F008DF22AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E1C5BA-E348-481D-B704-C6F008DF22AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
